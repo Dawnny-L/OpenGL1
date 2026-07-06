@@ -2,14 +2,14 @@
 
 A Project using OpenGL 
 
-##Features
+## Features
 -Texture
 -Lighting
 -Shaders
 -Camera
 -Camera Control
 
-##Technologies
+## Technologies
 -C++
 -OpenGL
 -CMAKE
@@ -18,5 +18,5 @@ A Project using OpenGL
 -GLM
 -stb_image
 
-##About
+## About
 This is a hobby i'm trying to master with my knowledge in C++
